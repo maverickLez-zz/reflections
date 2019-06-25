@@ -1,4 +1,4 @@
-```
+```English
 How did viewing a diff between two versions of a file help you see the bug that
 was introduced?
 
@@ -28,9 +28,9 @@ How can you use the commands git log and git diff to view the history of files?
 How might using version control make you more confident to make changes that
 could break something?
 
-->
+-> As previous version which are bug-free and working makes adventurous explorer to wonder in our project taking calculated risks for new experimental features to add-on.
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
--> 
+-> For my weekend projects, to access them remotely.
 ```
